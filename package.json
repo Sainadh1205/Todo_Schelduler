@@ -1,6 +1,7 @@
 {
   "name": "reactjs-project-1",
   "version": "0.1.0",
+  "homepage": "https://sainadh1205.github.io/Todo_Schelduler",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
