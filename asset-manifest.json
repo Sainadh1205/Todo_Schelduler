@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todo_Schelduler/static/css/main.0584f6ee.css",
+    "main.js": "/Todo_Schelduler/static/js/main.3bc3719d.js",
+    "static/media/ICON.jpg": "/Todo_Schelduler/static/media/ICON.8f340be5824be83ee002.jpg",
+    "index.html": "/Todo_Schelduler/index.html",
+    "main.0584f6ee.css.map": "/Todo_Schelduler/static/css/main.0584f6ee.css.map",
+    "main.3bc3719d.js.map": "/Todo_Schelduler/static/js/main.3bc3719d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0584f6ee.css",
+    "static/js/main.3bc3719d.js"
+  ]
+}
